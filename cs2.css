@@ -2077,13 +2077,14 @@ select~.error:after {
     font-size: 1rem;
     line-height: 1.5rem;
     padding: 1.125rem 1.25rem;
-    color: #2a81ea
+    color: #2a81ea;
+    font-weight: 700;
 }
 
 .wgs-list li a:after {
     margin-left: auto;
     font-family: "Nioicon";
-    content: ""
+    content: ">"
 }
 
 @media (min-width: 576px) {
